@@ -1,2 +1,2 @@
 # Arabic-Wordle
-https://amjad-101.github.io/Arabic-Wordle/
+https://code-imam.github.io/Arabic-Wordle/
